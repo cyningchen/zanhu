@@ -1,2 +1,2 @@
 # zanhu
-a website copy from zhihu
+a website like zhihu
